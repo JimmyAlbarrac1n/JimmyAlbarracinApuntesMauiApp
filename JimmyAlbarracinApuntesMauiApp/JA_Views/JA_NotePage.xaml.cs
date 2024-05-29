@@ -1,4 +1,4 @@
-namespace JimmyAlbarracinApuntesMauiApp;
+namespace JimmyAlbarracinApuntesMauiApp.JA_Views;
 
 public partial class JA_NotePage : ContentPage
 {
