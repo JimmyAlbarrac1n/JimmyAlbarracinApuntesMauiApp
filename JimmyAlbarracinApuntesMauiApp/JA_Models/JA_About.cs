@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace JimmyAlbarracinApuntesMauiApp.JA_Models
+﻿namespace JimmyAlbarracinApuntesMauiApp.JA_Models
 {
     internal class JA_About
     {

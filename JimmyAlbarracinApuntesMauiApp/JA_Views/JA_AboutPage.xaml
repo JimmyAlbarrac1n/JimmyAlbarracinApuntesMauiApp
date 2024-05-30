@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:ja_models="clr-namespace:Notes.JA_Models"
+             xmlns:models="clr-namespace:JimmyAlbarracinApuntesMauiApp.JA_Models"
              x:Class="JimmyAlbarracinApuntesMauiApp.JA_Views.JA_AboutPage"
              Title="JA_AboutPage">
     <ContentPage.BindingContext>
-        <ja_models:JA_AboutPage />
+        <models:JA_About />
     </ContentPage.BindingContext>
     <VerticalStackLayout Spacing="10" Margin="10">
         <HorizontalStackLayout Spacing="10">
